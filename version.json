@@ -1,14 +1,14 @@
 {
-  "latestCode": 19,
-  "latestName": "19.0",
-  "baseCode": 18,
-  "apkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v19.0/Chess-Helper.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v19.0/Chess-Helper.apk",
-  "apkSize": 80955891,
-  "apkSha256": "f4d82071384a4dc62b86bb8f64e8522aa9a2f43372efcf2d0ee4d8d7729f9d83",
-  "notes": "Chess Helper v19.0: Strength picker (1300 / 1500 / 1700 / 1900 / Full \u2014 the engine's own UCI limiter), and the app screen rebuilt to the mockup's measured geometry (no system app bar, fitted background glow, measured metal gradient, console at its mockup height). First delta update: patch from v18.",
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-helper-updates/main/patches/v18-to-v19.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v19.0/v18-to-v19.patch",
-  "patchSize": 874448,
-  "patchSha256": "8edd8c60a165aad8c838d4dc5d7baa86342da7863c3afd7b5ccf3574d2eaceae"
+  "latestCode": 20,
+  "latestName": "20.0",
+  "baseCode": 19,
+  "apkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v20.0/Chess-Helper.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v20.0/Chess-Helper.apk",
+  "apkSize": 80964083,
+  "apkSha256": "34a4594815fc0b15a84fd7fc38348a85e79998822de43d57c1ab3b35012e2564",
+  "notes": "Chess Helper v20.0: live win-rate indicator in the pill (win % for your side, updated after every move, smooth counting animation, green/red by who's winning), and the pill is now draggable \u2014 long-press, drag it where you want, it stays there. Delta update: patch from v19.",
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-helper-updates/main/patches/v19-to-v20.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v20.0/v19-to-v20.patch",
+  "patchSize": 880859,
+  "patchSha256": "0483fa619eadafba86751d996729a15a00fbd4a8e7177be8b727a375b5eb6ed9"
 }
