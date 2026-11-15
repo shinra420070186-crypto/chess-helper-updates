@@ -1,0 +1,10 @@
+{
+  "latestCode": 18,
+  "latestName": "18.0",
+  "baseCode": 18,
+  "apkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v18.0/Chess-Helper.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v18.0/Chess-Helper.apk",
+  "apkSize": 80947699,
+  "apkSha256": "c6a8296bf95e09ee92fbcdf006752c84599268e21d57bb2598d3da980d1d8ee0",
+  "notes": "Chess Helper v18.0: engine failure fix (a dead engine process no longer poisons the session; failures record their reason), read-on-change move detection, the new app screen, and the Update pill with delta updates."
+}
