@@ -1,10 +1,14 @@
 {
-  "latestCode": 18,
-  "latestName": "18.0",
+  "latestCode": 19,
+  "latestName": "19.0",
   "baseCode": 18,
-  "apkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v18.0/Chess-Helper.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v18.0/Chess-Helper.apk",
-  "apkSize": 80947699,
-  "apkSha256": "c6a8296bf95e09ee92fbcdf006752c84599268e21d57bb2598d3da980d1d8ee0",
-  "notes": "Chess Helper v18.0: engine failure fix (a dead engine process no longer poisons the session; failures record their reason), read-on-change move detection, the new app screen, and the Update pill with delta updates."
+  "apkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v19.0/Chess-Helper.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v19.0/Chess-Helper.apk",
+  "apkSize": 80955891,
+  "apkSha256": "f4d82071384a4dc62b86bb8f64e8522aa9a2f43372efcf2d0ee4d8d7729f9d83",
+  "notes": "Chess Helper v19.0: Strength picker (1300 / 1500 / 1700 / 1900 / Full \u2014 the engine's own UCI limiter), and the app screen rebuilt to the mockup's measured geometry (no system app bar, fitted background glow, measured metal gradient, console at its mockup height). First delta update: patch from v18.",
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-helper-updates/main/patches/v18-to-v19.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-helper-updates/releases/download/v19.0/v18-to-v19.patch",
+  "patchSize": 874448,
+  "patchSha256": "8edd8c60a165aad8c838d4dc5d7baa86342da7863c3afd7b5ccf3574d2eaceae"
 }
